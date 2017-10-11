@@ -265,6 +265,8 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = WF8579FT9W;
 				ENABLE_BITCODE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
 				INFOPLIST_FILE = iOSGolf/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xyz.akhil.iOSGolf;
