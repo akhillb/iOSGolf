@@ -263,6 +263,7 @@
 		E9EBF5CB1F8E9A6200A39134 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				DEVELOPMENT_TEAM = WF8579FT9W;
 				ENABLE_BITCODE = NO;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -279,6 +280,7 @@
 		E9EBF5CC1F8E9A6200A39134 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				DEVELOPMENT_TEAM = WF8579FT9W;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = iOSGolf/Info.plist;
