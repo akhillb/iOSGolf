@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E9EBF5B81F8E9A6200A39134 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E9EBF5B71F8E9A6200A39134 /* main.m */; };
-		E9EBF5BB1F8E9A6200A39134 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E9EBF5BA1F8E9A6200A39134 /* AppDelegate.m */; };
 		E9EBF5C11F8E9A6200A39134 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9EBF5BF1F8E9A6200A39134 /* Main.storyboard */; };
 		E9EBF5C31F8E9A6200A39134 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9EBF5C21F8E9A6200A39134 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,8 +15,6 @@
 /* Begin PBXFileReference section */
 		E9EBF5B31F8E9A6200A39134 /* iOSGolf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSGolf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9EBF5B71F8E9A6200A39134 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E9EBF5B91F8E9A6200A39134 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		E9EBF5BA1F8E9A6200A39134 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		E9EBF5C01F8E9A6200A39134 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E9EBF5C21F8E9A6200A39134 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9EBF5C71F8E9A6200A39134 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,8 +50,6 @@
 		E9EBF5B51F8E9A6200A39134 /* iOSGolf */ = {
 			isa = PBXGroup;
 			children = (
-				E9EBF5B91F8E9A6200A39134 /* AppDelegate.h */,
-				E9EBF5BA1F8E9A6200A39134 /* AppDelegate.m */,
 				E9EBF5BF1F8E9A6200A39134 /* Main.storyboard */,
 				E9EBF5C21F8E9A6200A39134 /* Assets.xcassets */,
 				E9EBF5C71F8E9A6200A39134 /* Info.plist */,
@@ -143,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9EBF5BB1F8E9A6200A39134 /* AppDelegate.m in Sources */,
 				E9EBF5B81F8E9A6200A39134 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
