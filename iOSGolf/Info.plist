@@ -14,9 +14,5 @@
 	<string>APPL</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>UILaunchStoryboardName</key>
-	<string>Main</string>
-	<key>UIMainStoryboardFile</key>
-	<string>Main</string>
 </dict>
 </plist>
