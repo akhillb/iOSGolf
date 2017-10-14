@@ -1,2 +1,1 @@
-#import <UIKit/UIKit.h>
-int main(int argc, char * argv[]) {@autoreleasepool {return UIApplicationMain(argc, argv, nil, NSStringFromClass([UIResponder class]));}}
+int main(int argc, char *argv[]) { return 0;};
